@@ -1,2 +1,3 @@
 # hello-world
-first REpo
+
+knows svn turtoise first time using git
